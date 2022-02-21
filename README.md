@@ -1,6 +1,9 @@
 The model used was generated using Lobe image classification. 
 This can be paired with a face detection algorithm then classifying multiple faces in the image.
-Here is an example: 
+"example" folder was generated at the end of the process. 
+Check README for guidelines
+
+Here is a result: 
 
 <img src=https://user-images.githubusercontent.com/46407601/154941536-68ecd352-54c2-499d-b9ec-2f5ba2969365.jpg alt="alt text" width=350 height=350>
 <img width="754" alt="results" src="https://user-images.githubusercontent.com/46407601/154941194-62344bf2-467a-4250-85e7-806aff92fff3.png">
